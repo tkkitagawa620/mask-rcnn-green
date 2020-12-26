@@ -1,3 +1,5 @@
 # Image files
 greenery/**
 raw_datasets/**
+datasets/**
+output/model_final.pth
